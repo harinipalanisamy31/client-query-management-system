@@ -1,0 +1,7 @@
+streamlit
+pandas
+pyodbc
+bcrypt
+python-dotenv
+matplotlib
+python-pptx

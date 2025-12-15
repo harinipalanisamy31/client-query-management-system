@@ -1,0 +1,4 @@
+query_id,mail_id,mobile_number,query_heading,query_description,status,query_created_time,query_closed_time
+1,alice@example.com,9876543210,Login issue,Can't login to my account,Open,2025-12-01 10:00:00,
+2,bob@example.com,9123456780,Billing error,Charged twice for subscription,Closed,2025-11-28 09:30:00,2025-11-29 12:00:00
+3,charlie@example.com,9012345678,Feature Request,Please add dark mode,Open,2025-12-05 14:20:00,
